@@ -1,0 +1,11 @@
+name: zeronatver
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10.12
+  - pytorch
+  - pytorch-cuda=12.4
+  - transformers=4.40.2
+  - colorlog
+  - tqdm
