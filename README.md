@@ -45,10 +45,21 @@ python ./zeronatver.py \
 If you find this work useful, please cite us:
 
 ```
-@article{strong2024zero,
-  title={Zero-Shot Fact Verification via Natural Logic and Large Language Models},
-  author={Strong, Marek and Aly, Rami and Vlachos, Andreas},
-  journal={arXiv preprint arXiv:2410.03341},
-  year={2024}
+@inproceedings{strong-etal-2024-zero,
+    title = "Zero-Shot Fact Verification via Natural Logic and Large Language Models",
+    author = "Strong, Marek  and
+      Aly, Rami  and
+      Vlachos, Andreas",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.991/",
+    doi = "10.18653/v1/2024.findings-emnlp.991",
+    pages = "17021--17035"
 }
 ```
